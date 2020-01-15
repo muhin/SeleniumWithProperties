@@ -21,7 +21,7 @@ dependencies {
 	compile group: 'io.github.bonigarcia', name: 'selenium-jupiter', version: '3.3.3'
 	compile group: 'io.github.bonigarcia', name: 'webdrivermanager', version: '3.8.0'
 		
-		testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.5.2'
+	testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.5.2'
 	testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-params', version: '5.5.2'
 	testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.5.2'
 }
